@@ -6,7 +6,7 @@
 4. Intent<br>
 5. Registration Form<br>
 6. Course Selection<br>
-7. Vote Eligible App<br>
+7. Vote Eligible App<br> 
 8. Cake App<br> 
 9. Broadcasr Reciever<br> 
 10. Animation<br>
