@@ -1,6 +1,6 @@
 # Android-Development-Using JAVA 📱
 
-1. Arithmetic Calculator<br>
+1. Arithmetic Calculator<br> 
 2. BMI Calculator (Body Mass Index)<br>
 3. ListView, Spinner, AutocompleteTextView<br>
 4. Intent<br>
