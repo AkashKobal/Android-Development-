@@ -4,7 +4,7 @@
 2. BMI Calculator (Body Mass Index)<br>
 3. ListView, Spinner, AutocompleteTextView<br>
 4. Intent<br>
-5. Registration Form<br>
+5. Registration Form<br> 
 6. Course Selection<br>
 7. Vote Eligible App<br> 
 8. Cake App<br> 
